@@ -1,0 +1,35 @@
+WEBVTT
+
+NOTE
+Captions for Responsive Web Design Video
+Student Name: Joseph Sutton
+File Name: captions.vtt
+Date: 5/9/24
+
+1
+00:00:00.500 --> 00:00:05.000
+Responsive design provides an optimum viewing experience for desktop,
+
+2
+00:00:05.000 --> 00:00:07.000
+tablet
+
+3
+00:00:07.000 --> 00:00:09.000
+and mobile devices.
+
+4
+00:00:09.000 --> 00:00:13.000
+Begin by creating a wireframe for each viewport.
+
+5
+00:00:13.000 --> 00:00:20.000
+Larger viewports allow for multiple columns of content.
+
+6
+00:00:20.000 --> 00:00:24.000
+Use a single column layout for mobile viewports.
+
+7
+00:00:24.500 --> 00:00:28.500
+When the wireframes are complete, you can begin the webpage development.

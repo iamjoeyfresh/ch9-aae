@@ -1,0 +1,15 @@
+WEBVTT
+
+NOTE
+Descriptions for the Responsive Web Design Video
+Student Name: Joseph Sutton
+File Name: descriptions.vtt
+Date: 5/9/24
+
+1
+00:00.000 --> 00:28.000
+Responsive design provides an optimum viewing experience for desktop, tablet and mobile devices.
+Begin by creating a wireframe for each viewport.
+Larger viewports allow for multiple columns of content.
+Use a single column layout for mobile viewports.
+When the wireframes are complete, you can begin the webpage development.
